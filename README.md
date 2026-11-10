@@ -5,7 +5,7 @@
 ### 👤 Informações do(a) Aluno(a)
 * **Aluno(a):** Maiara Soriano Lazzerini  
 * **Número:** 22  
-* **Sala:** 1ª E DS  
+* **Sala:** 1|E DS  
 
 ---
 
